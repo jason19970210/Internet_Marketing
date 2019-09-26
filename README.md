@@ -24,6 +24,6 @@
 
 ## 2019/09/26
 - 簡單的行銷系統
-    - ![](https://www.easyatm.com.tw/img/c/607/nBnauM3X2cjMwYTO4kTM5kTOxMTM4YDO3gDOwADMwAzMxAzL5EzLxYzLt92YucmbvRWdo5Cd0FmLwE2LvoDc0RHa.jpg)
+    ![](https://www.easyatm.com.tw/img/c/607/nBnauM3X2cjMwYTO4kTM5kTOxMTM4YDO3gDOwADMwAzMxAzL5EzLxYzLt92YucmbvRWdo5Cd0FmLwE2LvoDc0RHa.jpg)
 - 何謂產業？何謂市場？
     - A:產業為賣方的集合,市場為買方的集合
